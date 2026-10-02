@@ -29,4 +29,4 @@ using different web technologies.
 - 🤝 Collaborate on open-source projects
 - 📈 Keep learning and improving
 
-Thanks for visiting my GitHub!📫 ⭐
+Thanks for visiting my GitHub !⭐
