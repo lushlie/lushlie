@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Lushlie!
 
-<!--
-**lushlie/lushlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Development Student | 🌱 Beginner Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning how to build modern and responsive websites
+using different web technologies.
+
+### 🛠️ Technologies I'm Learning
+
+- 🌐 HTML
+- 🎨 CSS
+- 🅱️ Bootstrap
+- ⚡ JavaScript
+- 🐍 Python
+
+### 🚀 What I'm Working On
+
+- 💻 Building my first websites
+- 🎨 Improving my UI/UX skills
+- 🌱 Learning JavaScript
+- 📚 Creating projects to grow my portfolio
+
+### 🎯 My Goals
+
+- 🚀 Become a skilled software developer
+- 💡 Build useful real-world applications
+- 🤝 Collaborate on open-source projects
+- 📈 Keep learning and improving
+
+Thanks for visiting my GitHub!📫 ⭐
